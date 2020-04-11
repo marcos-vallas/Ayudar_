@@ -43,8 +43,8 @@ IPAddress AP_subnet(255,255,255,0);
 
 //------------------------ Datos cliente y servidor-----------//
 
-const char* ssid = "Casa Valla Arriba";        // Completar datos
-const char* password = "Valla-valla1";   //Completar datos
+const char* ssid = "xxxxxxxxxx";        // Completar datos
+const char* password = "xxxxxxx";   //Completar datos
 const char* mqtt_server = "192.168.1.114";  //Completar datos
 
 bool mqttConectado;
